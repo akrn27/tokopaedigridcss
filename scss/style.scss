@@ -155,7 +155,14 @@ img {
     }
 
     // Footer
-    .footer {
-
+    footer {
+        margin-top: 2rem;
+        background: $dark;
+        color: $light;
+        text-align: center;
+        padding: 1rem;
     }
 }
+
+
+// Media Queries
